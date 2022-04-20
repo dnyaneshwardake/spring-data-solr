@@ -1,0 +1,1 @@
+#Spring stopped supporting Apache Solr as spring data wrapper for it.
